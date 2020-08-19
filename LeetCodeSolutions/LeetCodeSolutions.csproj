@@ -5,4 +5,16 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="MediumProblems\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="MediumProblems\347. Top K Frequent Elements.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="MediumProblems\347. Top K Frequent Elements.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MediumProblems\347. Top K Frequent Elements.cs" />
+  </ItemGroup>
 </Project>
