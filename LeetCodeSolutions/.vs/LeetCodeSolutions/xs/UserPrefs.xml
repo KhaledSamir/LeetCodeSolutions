@@ -1,18 +1,27 @@
 ﻿<Properties StartupConfiguration="{40A167BA-13CE-496E-BF47-D798EC8F17E8}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Program.cs" Line="11" Column="99" />
-      <File FileName="MediumProblems/347. Top K Frequent Elements.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="13" Column="10" />
+      <File FileName="MediumProblems/347. Top K Frequent Elements.cs" Line="20" Column="15" />
+      <File FileName="Helpers/HeapKey.cs" Line="11" Column="1" />
+      <File FileName="MediumProblems/767. Reorganize String" Line="23" Column="13" />
+      <File FileName="EasyProblems/258. Add Digits.cs" Line="4" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LeetCodeSolutions" expanded="True">
-            <Node name="LeetCodeSolutions" expanded="True" selected="True">
+            <Node name="LeetCodeSolutions" expanded="True">
+              <Node name="EasyProblems" expanded="True" />
+              <Node name="Helpers" expanded="True" />
               <Node name="MediumProblems" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -20,7 +29,10 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/khaled/Projects/LeetCodeSolutions/LeetCodeSolutions/Program.cs" relfile="Program.cs" line="12" column="1" />
+      <Breakpoint file="/Users/khaled/Projects/LeetCodeSolutions/LeetCodeSolutions/EasyProblems/zqo1hfdc.jgn~" relfile="EasyProblems/zqo1hfdc.jgn~" line="25" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

@@ -7,6 +7,8 @@
 
   <ItemGroup>
     <Folder Include="MediumProblems\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="EasyProblems\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="MediumProblems\347. Top K Frequent Elements.cs" />
